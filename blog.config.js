@@ -3,8 +3,8 @@ const BLOG = {
   author: '连城究',
   email: 'emlcjnil@gmail.com',
   link: 'https://lcj.me',
-  description: 'This gonna be an awesome website.',
-  lang: 'en-US',
+  description: '',
+  lang: 'zh_CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
