@@ -4,7 +4,7 @@ const BLOG = {
   email: 'emlcjnil@gmail.com',
   link: 'https://lcj.me',
   description: 'Thoughts, stories and ideas',
-  lang: 'zh_CN',
+  lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
