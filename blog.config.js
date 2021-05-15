@@ -3,7 +3,7 @@ const BLOG = {
   author: '连城究',
   email: 'emlcjnil@gmail.com',
   link: 'https://lcj.me',
-  description: '',
+  description: 'Thoughts, stories and ideas',
   lang: 'zh_CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
